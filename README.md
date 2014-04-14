@@ -1,5 +1,4 @@
 # Sublime Text 2 W3C Console Validator
----	
 
 Sublime Text 2 Inline Console W3C Validator for Mac
 
