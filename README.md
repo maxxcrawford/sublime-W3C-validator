@@ -17,7 +17,9 @@ Sublime Text 2 Inline Console W3C Validator for Mac
 Copy the *validate.py* and *w3c-validator.py* files into Sublime's Package folder.
 
 Finder Path:
-`/Library/Application Support/Sublime Text 2/Packages/User`
+`~/Library/Application Support/Sublime Text 2/Packages/User`
+
+*To go directly to the specific folder: Finder > Go > Go to Folder*
 
 ### 2. Map Sublime Keyboard Shortcut
 
